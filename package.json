@@ -12,5 +12,8 @@
     "@types/react-dom": "^18.2.6",
     "react": "^18.2.0",
     "turbo": "^1.10.7"
+  },
+  "dependencies": {
+    "phosphor-react": "^1.4.1"
   }
 }
