@@ -29,10 +29,10 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@rauleffting-ds/eslint-config": "*",
+    "@rauleffting-ds/react": "*",
+    "@rauleffting-ds/tokens": "*",
+    "@rauleffting-ds/ts-config": "*",
     "polished": "^4.2.2"
   }
 }

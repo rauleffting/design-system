@@ -1,4 +1,4 @@
-# @ignite-ui/react
+# @rauleffting-ds/react
 
 ## 2.0.1
 
