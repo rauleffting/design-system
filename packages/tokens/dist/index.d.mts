@@ -75,6 +75,7 @@ declare const space: {
     40: string;
     64: string;
     80: string;
+    90: string;
 };
 
 export { colors, fontSizes, fontWeights, fonts, lineHeights, radii, space };

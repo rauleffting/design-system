@@ -113,7 +113,8 @@ var space = {
   20: "5rem",
   40: "10rem",
   64: "16rem",
-  80: "20rem"
+  80: "20rem",
+  90: "22.5rem"
 };
 // Annotate the CommonJS export names for ESM import in node:
 0 && (module.exports = {
