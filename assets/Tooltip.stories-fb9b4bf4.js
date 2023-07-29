@@ -1,0 +1,2 @@
+import{T as s}from"./index-60c908f8.js";import"./index-e67e0a49.js";import"./_commonjsHelpers-de833af9.js";import"./extends-98964cd2.js";import"./jsx-runtime-735650c8.js";const n={title:"Form/Tooltip",component:s},o={};var r,t,e;o.parameters={...o.parameters,docs:{...(r=o.parameters)==null?void 0:r.docs,source:{originalSource:"{}",...(e=(t=o.parameters)==null?void 0:t.docs)==null?void 0:e.source}}};const d=["Primary"];export{o as Primary,d as __namedExportsOrder,n as default};
+//# sourceMappingURL=Tooltip.stories-fb9b4bf4.js.map

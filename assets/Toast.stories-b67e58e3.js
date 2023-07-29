@@ -1,0 +1,2 @@
+import{a}from"./index-60c908f8.js";import"./index-e67e0a49.js";import"./_commonjsHelpers-de833af9.js";import"./extends-98964cd2.js";import"./jsx-runtime-735650c8.js";const n={title:"Form/Toast",component:a},r={};var o,t,s;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:"{}",...(s=(t=r.parameters)==null?void 0:t.docs)==null?void 0:s.source}}};const d=["Primary"];export{r as Primary,d as __namedExportsOrder,n as default};
+//# sourceMappingURL=Toast.stories-b67e58e3.js.map
