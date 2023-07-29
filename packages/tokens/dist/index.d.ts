@@ -53,6 +53,7 @@ declare const lineHeights: {
 declare const radii: {
     px: string;
     xs: string;
+    x: string;
     sm: string;
     md: string;
     lg: string;
@@ -73,6 +74,7 @@ declare const space: {
     16: string;
     20: string;
     40: string;
+    48: string;
     64: string;
     80: string;
     90: string;

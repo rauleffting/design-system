@@ -59,6 +59,7 @@ var lineHeights = {
 var radii = {
   px: "1px",
   xs: "4px",
+  x: "5px",
   sm: "6px",
   md: "8px",
   lg: "16px",
@@ -80,6 +81,7 @@ var space = {
   16: "4rem",
   20: "5rem",
   40: "10rem",
+  48: "12rem",
   64: "16rem",
   80: "20rem",
   90: "22.5rem"
